@@ -27,6 +27,7 @@ The dataset is included in a compressed (WinRAR) file. You can download or clone
 The dataset includes crime records such as date, category, district, and location coordinates.
 
 ## Project Structure
+```
 Crime-Analysis-and-Prediction
 │
 ├── project-data.rar          # Compressed dataset (CSV files)
@@ -34,7 +35,7 @@ Crime-Analysis-and-Prediction
 ├── project-overview.pdf      # Presentation summarizing the project
 ├── project-report.pdf        # Detailed report explaining the methodology and results
 ├── README.md                 # Project documentation
-
+```
 ## How to Run
 1. Clone/download the repository
 2. Install the required libraries
