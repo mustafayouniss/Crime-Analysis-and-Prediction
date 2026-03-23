@@ -30,10 +30,10 @@ The dataset includes crime records such as date, category, district, and locatio
 ```
 Crime-Analysis-and-Prediction
 │
-├── project-data.rar          # Compressed dataset (CSV files)
-├── project-notebook.ipynb    # Jupyter notebook 
-├── project-overview.pdf      # Presentation summarizing the project
-├── project-report.pdf        # Detailed report explaining the methodology and results
+├── crime-analysis-and-prediction-data.rar          # Compressed dataset (CSV files)
+├── crime-analysis-and-prediction-notebook.ipynb    # Jupyter notebook 
+├── crime-analysis-and-prediction-overview.pdf      # Presentation summarizing the project
+├── crime-analysis-and-prediction-report.pdf        # Detailed report explaining the methodology and results
 ├── README.md                 # Project documentation
 ```
 ## How to Run ▶️
