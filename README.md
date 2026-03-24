@@ -34,7 +34,7 @@ Crime-Analysis-and-Prediction
 ├── crime-analysis-and-prediction-notebook.ipynb    # Jupyter notebook 
 ├── crime-analysis-and-prediction-overview.pdf      # Presentation summarizing the project
 ├── crime-analysis-and-prediction-report.pdf        # Detailed report explaining the methodology and results
-├── README.md                 # Project documentation
+├── README.md                                       # Project documentation
 ```
 ## How to Run ▶️
 1. Clone/download the repository
